@@ -1,3 +1,0 @@
-/home/erostamas/repos/cpp_graphics/build/CMakeFiles/rebuild_cache.dir
-/home/erostamas/repos/cpp_graphics/build/CMakeFiles/main.dir
-/home/erostamas/repos/cpp_graphics/build/CMakeFiles/edit_cache.dir
